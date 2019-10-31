@@ -1,0 +1,11 @@
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.0\TypeCasting.exe
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.0\TypeCasting.deps.json
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.0\TypeCasting.runtimeconfig.json
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.0\TypeCasting.runtimeconfig.dev.json
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.0\TypeCasting.dll
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\bin\Debug\netcoreapp3.0\TypeCasting.pdb
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.0\TypeCasting.csprojAssemblyReference.cache
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.0\TypeCasting.AssemblyInfoInputs.cache
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.0\TypeCasting.AssemblyInfo.cs
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.0\TypeCasting.dll
+C:\Users\billy.richard\Documents\GitHub\TypeCasting\TypeCasting\obj\Debug\netcoreapp3.0\TypeCasting.pdb
